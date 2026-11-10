@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513461596826",
+    "project_id": "hb-plus-authentication-facf3",
+    "storage_bucket": "hb-plus-authentication-facf3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513461596826:android:b76cfa71968072ed492523",
+        "android_client_info": {
+          "package_name": "com.anonymous.GoogleDomainAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513461596826-6tva47kmp04n07gn1e4epc48a45k1mlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr9T2gdvUjgDxVUrpyTaHIqW312-Zj5E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513461596826-6tva47kmp04n07gn1e4epc48a45k1mlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

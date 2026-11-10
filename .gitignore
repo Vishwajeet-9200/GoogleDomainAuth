@@ -41,3 +41,20 @@ example
 # generated native folders
 /ios
 /android
+backend/serviceAccountKey.json
+# Gradle and native build files
+.gradle/
+**/.gradle/
+.cxx/
+**/.cxx/
+**/build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+backend/serviceAccountKey.json
+
+# Firebase private credentials
+*serviceAccountKey*.json
